@@ -1,0 +1,50 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  
+}
+
+.bg-main{
+  background-color: whitesmoke(128, 0, 122, 0.966);
+}
+
+.content{
+  padding: 12px;
+  height:1000px;
+  background-color:whitesmoke;
+  background-image: img src="  ";
+
+}
+
+.content2{
+  padding: 12px;
+  height:1000px;
+  background-color:rgb(141, 26, 97);
+  background-image: img src="  ";
+
+}
+
+.right{
+  justify-content: flex-end;
+
+}
+
+
+.Signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
